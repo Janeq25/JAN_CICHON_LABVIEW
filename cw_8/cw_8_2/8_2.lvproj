@@ -11,11 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="calc.vi" Type="VI" URL="../calc.vi"/>
-		<Item Name="calculate.vi" Type="VI" URL="../calculate.vi"/>
-		<Item Name="setup.vi" Type="VI" URL="../setup.vi"/>
-		<Item Name="SM_Data.ctl" Type="VI" URL="../SM_Data.ctl"/>
-		<Item Name="SM_States.ctl" Type="VI" URL="../SM_States.ctl"/>
+		<Item Name="8_2.vi" Type="VI" URL="../8_2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
